@@ -1,1 +1,2 @@
-desy fauziah
+plotly-express
+yfinance
